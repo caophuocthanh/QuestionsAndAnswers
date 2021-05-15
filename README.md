@@ -11,4 +11,8 @@
 - Faster and safter.
 - Swift is modern and protocols orented programing language.
 
-### 
+### 2. What is new in Swift 4.0
+- Multiline String https://www.hackingwithswift.com/sixty/1/3/multi-line-strings
+- Codeable 
+- Strings are collection types
+- One sided rang operators https://cocoacasts.com/swift-fundamentals-how-to-use-one-sided-ranges-in-swift
